@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic Operations", "Arithmetic Operations\Arithmetic Operations.csproj", "{4DA66B3A-5B1A-474E-9194-E0BCBDA9FAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DA66B3A-5B1A-474E-9194-E0BCBDA9FAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA66B3A-5B1A-474E-9194-E0BCBDA9FAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA66B3A-5B1A-474E-9194-E0BCBDA9FAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA66B3A-5B1A-474E-9194-E0BCBDA9FAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4B09348-0DEF-443B-8AD1-7946024D23A9}
+	EndGlobalSection
+EndGlobal
